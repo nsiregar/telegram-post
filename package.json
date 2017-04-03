@@ -1,0 +1,28 @@
+{
+  "name": "telegram-post",
+  "version": "1.0.0",
+  "description": "Tool for posting to Channel or Group via Telegram Bot API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsiregar/telegram-post.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "channel"
+  ],
+  "author": "Ngalim Siregar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsiregar/telegram-post/issues"
+  },
+  "homepage": "https://github.com/nsiregar/telegram-post#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
